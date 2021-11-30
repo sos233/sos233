@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sos233)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sos233&show_icons=true&count_private=true&theme=dracula) 
+
+<!-- ![Willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sos233&layout=compact&theme=dracula) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sos233&layout=compact&langs_count=10&theme=dracula)
 
 
 <!---
